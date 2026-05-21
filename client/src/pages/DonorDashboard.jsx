@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
-import heroImage from "../assets/hero.jpeg";
+import heroImage from "../assets/Hero.jpeg";
 import NotificationPanel from "../components/NotificationPanel";
 
 const DonorDashboard = () => {
