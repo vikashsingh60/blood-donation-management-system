@@ -1,5 +1,4 @@
 {
-  "rootDirectory": "client",
   "routes": [
     { "src": "/(.*)", "dest": "dist/index.html" }
   ]
